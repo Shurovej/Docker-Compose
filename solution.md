@@ -17,7 +17,8 @@
 [Задание 4] https://github.com/Shurovej/Docker-Compose/blob/main/task4.png
 
 [Задание 5] https://github.com/Shurovej/Docker-Compose/blob/main/task5.1.png
-Какой из файлов был запущен и почему? - Будет запущен файл docker-compose.yaml, потому что:
+
+      Какой из файлов был запущен и почему? - Будет запущен файл docker-compose.yaml, потому что:
 Docker Compose по умолчанию ищет файлы с именами compose.yaml или docker-compose.yaml (в этом порядке)
 Но команда docker compose (без дефиса) по умолчанию использует именно docker-compose.yaml
 
