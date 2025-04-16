@@ -17,8 +17,13 @@
 [Задание 4] https://github.com/Shurovej/Docker-Compose/blob/main/task4.png
 
 [Задание 5] https://github.com/Shurovej/Docker-Compose/blob/main/task5.1.png
+
       https://github.com/Shurovej/Docker-Compose/blob/main/task5.2.png
-      https://github.com/Shurovej/Docker-Compose/blob/main/task5.3.png
-      https://github.com/Shurovej/Docker-Compose/blob/main/task5.4.png
+      
+      https://github.com/Shurovej/Docker-Compose/blob/main/task5.3.png
+      
+      https://github.com/Shurovej/Docker-Compose/blob/main/task5.4.png
+      
       https://github.com/Shurovej/Docker-Compose/blob/main/task5.5.png
+      
       https://github.com/Shurovej/Docker-Compose/blob/main/task5.6.png
