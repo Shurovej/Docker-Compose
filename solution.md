@@ -6,7 +6,7 @@
 
 [Задание 3] https://github.com/Shurovej/Docker-Compose/blob/main/task3.1.png
 
-[          ] https://github.com/Shurovej/Docker-Compose/blob/main/task3.2.png
+         https://github.com/Shurovej/Docker-Compose/blob/main/task3.2.png
             
             https://github.com/Shurovej/Docker-Compose/blob/main/task3.3.png
             
